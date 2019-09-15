@@ -10,12 +10,14 @@ Please contact to  vizslice@gmail.com or viz.dataslice.co.uk  for get latest ver
 
 
 ## Demo
-
+## Slider Type -  1 
 ![Example](https://github.com/vizslice/LoQumSlider-Qlik-Sense/blob/master/examples/images/Slider-1.gif)
 
+## Slider Type -  2 
 ![Example](https://github.com/vizslice/LoQumSlider-Qlik-Sense/blob/master/examples/images/Slider-2.gif)
 
-
+## Slider Type -  3 
+![Example](https://github.com/vizslice/LoQumSlider-Qlik-Sense/blob/master/examples/images/Slider-3.gif)
 
 Download [SimpleKPIDemo.qvf](examples/SimpleKPIDemo.qvf)
 
