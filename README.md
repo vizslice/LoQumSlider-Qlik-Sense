@@ -1,21 +1,15 @@
 # LoQumSlider Qlik Sense
 Vizslice Qlik Sense Extension Pack LoQum Slider
-# Simple KPI
+With LoQum Slider , you can modify your variables value easily . You can use static values for mix, max and stepper value or variaables. It's quite usefull extension for tweaking values and looking new forecast results or animating your chart results. current version supports three different fully cusotomizable sliders. 
 
-Simple KPI component for Qlik Sense.
-It can show one or several KPI using measures and one dimension (selectable, optional, it can show up to 255 values).
-Supports adaptive design, conditional css colors, conditional icons, infographic (with constraints, no more than 1000 icons per measure), configurable number of kpis per line, several predefined sizes, custom styles (CSS).
-Each measure can have a link to another sheet.
 
 ![Simple KPI](https://raw.githubusercontent.com/alner/qsStatisticBlock/screenshots/screenshots/SimpleKPI.png)
 
 ## Installation
 
-Download [build/qsSimpleKPI.zip](https://github.com/alner/qsSimpleKPI/raw/master/build/qsSimpleKPI.zip), upload to qlik server or extract to appropriate folder.
+Please contact to  vizslice@gmail.com or viz.dataslice.co.uk  for get latest version of the LoQum Charts package 
 
-Qlik Sense Desktop: unzip to a directory under [My Documents]/Qlik/Sense/Extensions.
 
-Qlik Sense Server: import the zip file in the QMC.
 
 ## Demo
 
