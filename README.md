@@ -13,7 +13,7 @@ Please contact to  vizslice@gmail.com or viz.dataslice.co.uk  for get latest ver
 
 ![Example](https://github.com/vizslice/LoQumSlider-Qlik-Sense/blob/master/examples/images/Slider-1.gif)
 
-![Example](https://github.com/vizslice/LoQumSlider-Qlik-Sense/blob/master/examples/images/Slider-1.gif)
+![Example](https://github.com/vizslice/LoQumSlider-Qlik-Sense/blob/master/examples/images/Slider-2.gif)
 
 
 
