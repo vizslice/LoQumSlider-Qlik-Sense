@@ -2,7 +2,7 @@
 With LoQum Slider , you can modify your variables value easily . You can use static values for mix, max and stepper value or variaables. It's quite usefull extension for tweaking values and looking new forecast results or animating your chart results. current version supports three different fully cusotomizable sliders. 
 
 
-![Example](https://raw.githubusercontent.com/vizslice/LoQumSlider-Qlik-Sense/blob/master/examples/images/Slider-1.gif)
+![Example](/vizslice/LoQumSlider-Qlik-Sense/blob/master/examples/images/Slider-1.gif?raw=true)
 
 ## Installation
 
